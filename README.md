@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wataaken
 - 👀 I’m interested in electronic music, baseball and a few games
-- 🌱 I’m currently learning about Data Science in general
+- 🌱 I’m currently learning about Data Science and Data Analysis
 - 💞️ I’m looking to collaborate on my portfolio
 
 <!---
